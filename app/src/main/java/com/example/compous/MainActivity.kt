@@ -32,6 +32,12 @@ class MainActivity : ComponentActivity() {
                 ListItem("Viktor", "Kravchenko")
                 ListItem("Viktor", "Kravchenko")
                 ListItem("Viktor", "Kravchenko")
+                ListItem("Viktor", "Kravchenko")
+                ListItem("Viktor", "Kravchenko")
+                ListItem("Viktor", "Kravchenko")
+                ListItem("Viktor", "Kravchenko")
+                ListItem("Viktor", "Kravchenko")
+                ListItem("Viktor", "Kravchenko")
             }
         }
 
